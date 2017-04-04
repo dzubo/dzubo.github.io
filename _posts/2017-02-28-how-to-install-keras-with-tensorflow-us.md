@@ -12,7 +12,7 @@ Using environment manager like [Anaconda][anaconda] makes life easier.
 But sometimes due to different dependencies it takes additional steps to unserstand
 how to install needed packages.
 
-I assume that you have `Anaconda` intsalled.
+I assume that you have `Anaconda` installed.
 
 Since there is no `tensorflow` package in an [Anaconda Package List][anaconda-package-list]
 one have to use [conda-forge][conda-forge] - community supported repository of packages.
