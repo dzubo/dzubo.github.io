@@ -50,8 +50,6 @@ The succesfull output should be:
 Hello, TensorFlow!
 ```
 
-(available versions: conda search --override-channels --channel conda-forge  keras)
-
 ## Set up Keras
 
 To work with Tensorflow as backend, please make sure that you have the following in the `~/.keras/keras.json` file:
