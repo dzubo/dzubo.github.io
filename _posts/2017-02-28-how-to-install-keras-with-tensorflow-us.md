@@ -3,7 +3,7 @@ layout: post
 title:  "How to Install Keras with Tensorflow using Conda"
 date:   2017-02-28 15:00:14 -0700
 categories: python keras
-tags: keras tensorflow conda python tag2
+tags: keras tensorflow conda python
 ---
 
 [Keras][keras] is an amazing wrapper for [Tensorflow][tensorflow]
