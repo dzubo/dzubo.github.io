@@ -64,7 +64,8 @@ To work with Tensorflow as backend, please make sure that you have the following
 }
 ```
 
-That's it, you are ready to use Keras with Tensorflow!
+That's it, you are ready to use Keras with Tensorflow!  
+Let's do some "Hello, World!" [handwritten digits recognition]({% post_url 2017-04-21-tutorial-on-using-keras-for-digits-recognition %}).
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
