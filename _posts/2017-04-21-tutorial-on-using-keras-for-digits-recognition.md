@@ -19,7 +19,9 @@ The images are 28x28 pixels size:
 It may sound complicated, but with Keras it is possible to create Neural Network, train it,
 and estimate the accuracy of the predictions on unseen data.
 
-Here is the [Jupyter notebook][keras-mnist-notebook] for the tutorial, please fell free to download and play with it.
+Here is the [Jupyter notebook for the tutorial][keras-mnist-notebook], please fell free to download and play with it.
+
+[Open the notebook code][keras-mnist-notebook].
 
 To make things more fun, I use the dataset provided by Kaggle training competition
 [Digit Recognizer][kaggle-digits]. It uses the MNIST dataset ([download it][kaggle-digits-data]),
@@ -95,7 +97,7 @@ Please feel free to do it by yourself, here is the [source of the code for this 
 
 
 [wiki-MNIST]: https://en.wikipedia.org/wiki/MNIST_database
-[keras-mnist-tutorial]: https://github.com/dzubo/digit-recognizer/blob/master/Keras%20%2B%20Tensorflow%20MNIST.ipynb
+[keras-mnist-notebook]: https://github.com/dzubo/digit-recognizer/blob/master/Keras%20%2B%20Tensorflow%20MNIST.ipynb
 [kaggle-digits]: https://www.kaggle.com/c/digit-recognizer
 [kaggle-digits-data]: https://www.kaggle.com/c/digit-recognizer/data
 [github-digits]: https://github.com/dzubo/digit-recognizer/
