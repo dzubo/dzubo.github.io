@@ -87,7 +87,9 @@ around 99.3% accuracy.
 But please don't use Kaggle leaderboard as an target for the accuracy. Obviously, some people with 100% accuracy
 just cheated somehow (i.e. overfitted on the testing dataset somehow).
 
-The next steps from here would try to use other hyper-parameters tuning.
+## Can we do better?
+
+The next steps from here would be to try other hyper-parameters tuning.  
 Please feel free to do it by yourself, here is the [source of the code for this post][github-digits].
 
 
@@ -96,14 +98,3 @@ Please feel free to do it by yourself, here is the [source of the code for this 
 [kaggle-digits]: https://www.kaggle.com/c/digit-recognizer
 [kaggle-digits-data]: https://www.kaggle.com/c/digit-recognizer/data
 [github-digits]: https://github.com/dzubo/digit-recognizer/
-
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
-[anaconda]: https://docs.continuum.io/anaconda/
-[anaconda-package-list]: https://docs.continuum.io/anaconda/pkg-docs.html
-[conda-forge]: https://conda-forge.github.io
-[keras]: https://github.com/fchollet/keras
-[tensorflow]: https://www.tensorflow.org
-[torch]: http://torch.ch
