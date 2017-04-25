@@ -16,7 +16,7 @@ The images are 28x28 pixels size:
 ![Digits examples from the MNIST]({{ site.url }}/assets/posts/2017-04-21-tutorial-on-using-keras-for-digits-recognition/mnist-digits.png)
 
 
-Neural networks may sound complicated, but with Keras it is possible to create Neural network, train it,
+Neural networks may sound complicated, but with Keras it is possible to create neural network, train it,
 and estimate the accuracy of the predictions on unseen data with only 10-20 lines of the code.
 
 Here is the [Jupyter notebook for the tutorial][keras-mnist-notebook], please fell free to download and play with it.
