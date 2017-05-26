@@ -92,7 +92,8 @@ just cheated somehow (i.e. overfitted on the testing dataset somehow).
 
 ## Can we do better?
 
-The next steps from here would be to try other hyper-parameters tuning.  
+The next steps from here would be to try
+[hyperparameters tuning]({% post_url 2017-05-26-increasing-model-accuracy-by-tuning-parameters %}).  
 Please feel free to do it by yourself, here is the [source of the code for this post][github-digits].
 
 
