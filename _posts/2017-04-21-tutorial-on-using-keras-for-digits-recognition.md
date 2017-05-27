@@ -86,7 +86,7 @@ So, 96% accuracy for unseen test data is good, right?
 
 But nowadays, this result isn't considered as good. The best you can get using only one hidden layer NN,
 for now, is around 99.3% accuracy.  
-But please don't use Kaggle leaderboard as a target for the accuracy.]
+But please don't use Kaggle leaderboard as a target for the accuracy.
 Apparently, some people with 100% accuracy
 just cheated somehow (i.e. overfitted on the testing dataset somehow).
 
