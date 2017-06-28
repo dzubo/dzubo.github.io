@@ -6,6 +6,8 @@ categories: python keras
 tags: keras tensorflow conda python
 ---
 
+*Updated 28 Jun 2017.*
+
 [Keras][keras] is an amazing wrapper for [Tensorflow][tensorflow]
 (and [Torch][torch]) that makes it simple to start playing with Neural Networks.
 
@@ -18,22 +20,21 @@ I assume that you have `Anaconda` installed.
 Since there is no `tensorflow` package in an [Anaconda Package List][anaconda-package-list]
 one have to use [conda-forge][conda-forge] - community supported repository of packages.
 
-But as of February 27, 2017 the latest Python version is 3.6 and conda-forge lacks tensorflow
-package for that version.
+~~But as of February 27, 2017 the latest Python version is 3.6 and conda-forge lacks tensorflow
+package for that version.~~
 
-So first of all, let's create a 'tensorflow' environment with the Python version 3.5:
+So first of all, let's create a 'tensorflow' environment with the Python. 
+I also advice setup `pandas`, `matplotlib`, and `jupyter` packages for data manipulation
+and visualization of the result.
 
 ```
-conda create -n tensorflow python=3.5
+conda create -n tf python=3 pandas matplotlib jupyter keras tensorflow
 ```
 
-Then we make new environment active, install `tensorflow` package from the `conda-forge` channel,
-and install available :
+Then we make new environment active:
 
 ```
 source activate tensorflow
-conda install -c conda-forge tensorflow
-conda install -c conda-forge keras=1.0.7
 ```
 
 ## Testing that Tensorflow is working
