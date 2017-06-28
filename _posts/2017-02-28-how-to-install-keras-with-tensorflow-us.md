@@ -47,6 +47,9 @@ sess = tf.Session()
 print(sess.run(hello))
 ```
 
+There would be warnings that `The TensorFlow library wasn't compiled to use <...> instructions, ...`.
+That is ok. We don't want to build libraries from the the source code here.
+
 The succesfull output should be:
 ```
 Hello, TensorFlow!
