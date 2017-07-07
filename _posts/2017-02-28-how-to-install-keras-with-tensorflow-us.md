@@ -24,11 +24,11 @@ one have to use [conda-forge][conda-forge] - community supported repository of p
 package for that version.~~
 
 So first of all, let's create environment with the Python, and name it a 'tf'. 
-I also advice to install `pandas`, `matplotlib`, and `jupyter` packages for data manipulation
-and visualization of the result.
+I also advice to install `pandas`, `matplotlib`, `jupyter` and `nb_conda`
+packages for data manipulation and visualization of the result.
 
 ```
-conda create -n tf python=3 pandas matplotlib jupyter keras tensorflow
+conda create -n tf python=3 keras tensorflow pandas matplotlib jupyter nb_conda
 ```
 
 Then we make new environment active:
@@ -37,7 +37,7 @@ Then we make new environment active:
 source activate tf
 ```
 
-## Testing that Tensorflow is working
+## Testing that Tensorflow is working 
 
 ```
 python
