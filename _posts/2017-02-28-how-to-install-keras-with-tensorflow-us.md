@@ -28,6 +28,7 @@ I also advice to install `pandas`, `matplotlib`, `jupyter` and `nb_conda`
 packages for data manipulation and visualization of the result.
 
 ```
+conda config --add channels conda-forge
 conda create -n tf python=3 keras tensorflow pandas matplotlib jupyter nb_conda
 ```
 
