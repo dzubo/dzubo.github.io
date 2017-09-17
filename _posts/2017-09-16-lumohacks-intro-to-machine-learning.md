@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Workshop Itroduction to Machine Learning on Lumohacks Hackathon"
+title:  "Workshop Introduction to Machine Learning on Lumohacks Hackathon"
 date:   2017-09-16 19:09:00 -0700
 categories: machine-learning
 tags: hackathon "machine learning"
@@ -15,6 +15,8 @@ Here is my presentation on the Introduction to Machine Learning workshop.
 <iframe width="550" height="400" src="https://prezi.com/view/dZX43oX9XyL5GdAlCz09/embed" webkitallowfullscreen="1" mozallowfullscreen="1" allowfullscreen="1"></iframe> 
 
 [Direct link to the presentation][pres-link]
+
+[Notebook with the code for the presentation][notebook-github]
 
 
 [lumohacks]: http://lumohacks.com/
